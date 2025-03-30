@@ -19,5 +19,13 @@ What you'll see below is a log for every program I have done to Make my Java Str
 ## Conditional Statements and Loops ⚡🔄
 | Serial No                       | Name                                                                                                              |    Description 
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-|    9    | Factorial of a Number  |         Implemented a program to Calculate the Factorial of a number after taking input from the User                  |
+|    9    | Factorial of a Number  |         Implemented a program to Calculate the Factorial of a number after taking input from the User.                  |
 |    10    | Checking if number is positive or not |         Implemented a program to check if a number is positive, negative, or zero using if-else conditions.                     |
+|    11    | Checking Sum of odd number  |         Implemented a program to calculate the sum of the odd and even numbers between the given range.                      |
+|    12    | Fibonacci Series  |         Implemented a program to calculate the Fibonacci series with given number provided.                      |
+|    13    | Switch Case  |         Implemented a program using Switch Case method to determine the day of the week based on a number input.                      |
+
+
+## Pattern Using * and Numbers ⚡🔄
+| Serial No                       | Name                                                                                                              |    Description 
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
