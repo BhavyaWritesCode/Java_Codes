@@ -24,8 +24,7 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    11    | Checking Sum of odd or even number  |         Implemented a program to calculate the sum of the odd and even numbers between the given range.                      |
 |    12    | Fibonacci Series  |         Implemented a program to calculate the Fibonacci series with given number provided.                      |
 |    13    | Switch Case  |         Implemented a program using Switch Case method to determine the day of the week based on a number input.                      |
-|    14    | FIZZ BUZZ  |         Implemented a program which replaces multiples of 3 
-with "Fizz" and multiples of 5 with "Buzz." If a number is divisible by both,then print "FizzBuzz."                       |
+|    14    | FIZZ BUZZ  |         Implemented a program which replaces multiples of 3 with "Fizz" and multiples of 5 with "Buzz." If a number is divisible by both,then print "FizzBuzz."                       |
 |    15    | Palindrome  |         Implemented a program to check whether the number is palindrome or not                      |
 |    16    | Armstrong  |         Implemented a program to check whether the number is Armstrong or not                      |
 |    17    | Strong |         Implemented a program to check whether the number is Strong or not                      |
