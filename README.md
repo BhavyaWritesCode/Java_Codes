@@ -30,6 +30,7 @@ with "Fizz" and multiples of 5 with "Buzz." If a number is divisible by both,the
 |    16    | Armstrong  |         Implemented a program to check whether the number is Armstrong or not                      |
 |    17    | Strong |         Implemented a program to check whether the number is Strong or not                      |
 |    18    | Decimal to Binary  |         Implemented a program to Convert the Decimal Number into the binary format                       |
+|    19    | ASCII values  |         Implemented a program to Convert Lowercase letters into Uppercase and Vice-versa using ASCII values                       |
 ## Java Design Pattern  ⚡🔄
 | Serial No                       | Name                                                                                                              |    Description 
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
