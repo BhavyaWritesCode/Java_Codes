@@ -30,6 +30,10 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    17    | Strong |         Implemented a program to check whether the number is Strong or not                      |
 |    18    | Decimal to Binary  |         Implemented a program to Convert the Decimal Number into the binary format                       |
 |    19    | ASCII values  |         Implemented a program to Convert Lowercase letters into Uppercase and Vice-versa using ASCII values                       |
-## Java Design Pattern  ⚡🔄
+## Array and Strings  ⚡🔄
 | Serial No                       | Name                                                                                                              |    Description 
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|    20    | Sum of elements in an array  |         Implemented a program to Calculate the Sum of the elements in an array.                  |
+|    21    | Second Largest no.  |         Implemented a program to Calculate the Second largest number in a given array.                  |
+|    22    | Occurrence  |         Implemented a program to Calculate the occurrence of a element in the given array.                  |
+|    23    | Reverse an array  |         Implemented a program to Reverse a given array without using another array.                  |
