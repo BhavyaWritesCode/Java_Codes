@@ -37,3 +37,5 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    21    | Second Largest no.  |         Implemented a program to Calculate the Second largest number in a given array.                  |
 |    22    | Occurrence  |         Implemented a program to Calculate the occurrence of a element in the given array.                  |
 |    23    | Reverse an array  |         Implemented a program to Reverse a given array without using another array.                  |
+|    24    | Ascending & Descending in array  |         Implemented a program to Take array from user and Sort in Ascending and Descending based on user choice.                 |
+|    25    | Common elements in array  |         Implemented a program to Find the common elements in the two arrays.                  |
