@@ -41,3 +41,5 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    25    | Common elements in array  |         Implemented a program to Find the common elements in the two arrays.                  |
 |    26    | Deleting Duplicates in array  |         Implemented a program to Find and delete the Duplicate element in the array.                 |
 |    26    | Merging array  |         Implemented a program to take the two arrays from the user and merge it into third array.                 |
+|    27    | Converting String  |         Implemented a program to Input a String and convert into character array.                 |
+|    28    | Merging array  |         Implemented a program to take the two arrays from the user and merge it into third array.                 |
