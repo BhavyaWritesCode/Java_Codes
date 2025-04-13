@@ -43,3 +43,6 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    26    | Merging array  |         Implemented a program to take the two arrays from the user and merge it into third array.                 |
 |    27    | Converting String  |         Implemented a program to Input a String and convert into character array.                 |
 |    28    | Merging array  |         Implemented a program to take the two arrays from the user and merge it into third array.                 |
+|    29    | Checking Anagram  |         Implemented a program to take two Strings as input and to check if they are anagram or not.                 |
+|    30    | Reversing String  |         Implemented a program to Reverse the words in a given sentence without reversing the individual characters.     |
+|    31    | Reversing String  |         Implemented a program to find the number of vowels and consonants in a string.        |
