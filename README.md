@@ -46,3 +46,9 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    29    | Checking Anagram  |         Implemented a program to take two Strings as input and to check if they are anagram or not.                 |
 |    30    | Reversing String  |         Implemented a program to Reverse the words in a given sentence without reversing the individual characters.     |
 |    31    | Reversing String  |         Implemented a program to find the number of vowels and consonants in a string.        |
+## Methods and Functions ⚡🔄
+| Serial No                       | Name                                                                                                              |    Description 
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|    32    | Sum of two Integers  |         Implemented a program to write a method that accepts two integers and returns their sum.                   |
+|    33    | Factorial  |         Implemented a program to write a recursive method to calculate the factorial of a number.                    |
+|    34    | Area  |         Implemented a program to write a program that calls a method to calculate the area of a circle.                   |
