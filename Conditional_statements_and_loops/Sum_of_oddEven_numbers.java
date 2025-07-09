@@ -1,4 +1,4 @@
-package Java_Codes.Conditional_statements_and_loops;
+package Conditional_statements_and_loops;
 import java.util.Scanner;
 
 public class Sum_of_oddEven_numbers {

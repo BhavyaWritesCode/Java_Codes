@@ -1,4 +1,4 @@
-package Java_Codes.Basic_Syntax;
+package Basic_Syntax;
 
 public class Declaring_variables {
     

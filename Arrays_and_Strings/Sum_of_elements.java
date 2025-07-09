@@ -1,4 +1,4 @@
-package Java_Codes.Arrays_and_Strings;
+package Arrays_and_Strings;
 import java.util.Scanner;
 
 public class Sum_of_elements {
