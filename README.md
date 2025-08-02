@@ -52,3 +52,7 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    32    | Sum of two Integers  |         Implemented a program to write a method that accepts two integers and returns their sum.                   |
 |    33    | Factorial  |         Implemented a program to write a recursive method to calculate the factorial of a number.                    |
 |    34    | Area  |         Implemented a program to write a program that calls a method to calculate the area of a circle.                   |
+|    35    | Method Overloading  |         Implemented a program to write a program to showcase the Method Overloading technique.                   |
+|    36    | Method with return type  |         Implemented a program to write a program to showcase method with return type                  |
+|    37    | Method with array as a parameter  |         Implemented a program to write a program to showcase method with array as parameter.                  |
+|    38    | pass by value  |         Implemented a program to write a program to showcase Pass-by-value vs pass-by-reference demo.                  |
