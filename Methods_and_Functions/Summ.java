@@ -1,4 +1,3 @@
-package Methods_and_Functions;
 import java.util.*;
 public class Summ {
 

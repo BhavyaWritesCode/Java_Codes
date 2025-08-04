@@ -1,5 +1,3 @@
-package Methods_and_Functions;
-
 public class Method_array {
 
     // Method to print array
