@@ -55,4 +55,6 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    35    | Method Overloading  |         Implemented a program to write a program to showcase the Method Overloading technique.                   |
 |    36    | Method with return type  |         Implemented a program to write a program to showcase method with return type                  |
 |    37    | Method with array as a parameter  |         Implemented a program to write a program to showcase method with array as parameter.                  |
-|    38    | pass by value  |         Implemented a program to write a program to showcase Pass-by-value vs pass-by-reference demo.                  |
+|    38    | Pass by value  |         Implemented a program to write a program to showcase Pass-by-value vs pass-by-reference demo.                  |
+|    39    |  Check Magic number |         Implemented a program to check wether number is a magic numebr or not.                 |
+|    40    | Binary search |         Implemented a program to show binary search using method.                  |
