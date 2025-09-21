@@ -58,3 +58,6 @@ What you'll see below is a log for every program I have done to Make my Java Str
 |    38    | Pass by value  |         Implemented a program to write a program to showcase Pass-by-value vs pass-by-reference demo.                  |
 |    39    |  Check Magic number |         Implemented a program to check wether number is a magic numebr or not.                 |
 |    40    | Binary search |         Implemented a program to show binary search using method.                  |
+## Basic Programs ⚡🔄
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|    41    | TicTacToe game  |         Implemented a program to Demonstrate and Play the game.                   |
